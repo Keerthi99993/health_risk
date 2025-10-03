@@ -1,0 +1,9 @@
+DSENV/
+src/models/CNN_model.keras
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+*.pickle
+src/data/make_database.py
